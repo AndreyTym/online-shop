@@ -1,0 +1,3 @@
+{"clientName":"Андрей","clientEmail":"andrey@ukr.net","cart":{"1":1,"9":2}}
+{"clientName":"Jhon","clientEmail":"jhonjhon@world.com","cart":{"3":3}}
+{"clientName":"Андрей","clientEmail":"jhonjhon@world.com","cart":{"1":1,"2":1,"3":1}}
